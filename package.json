@@ -1,8 +1,8 @@
 {
-  "name": "goose-track-frontend",
+  "name": "goose-track",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mikiua.github.io/GooseTrack-frontend/",
+  "homepage": "https://mazkaandrii.github.io/GooseTrack/",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
